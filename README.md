@@ -1,5 +1,7 @@
 # HS App UI Library
-This is the master Sketch Library for the Help Scout App (Production). Consider it the single source of truth for all Help Scout UI and a super simple way to create quick and accurate mockups. For examples on **how** to use these components, read [the Wiki](https://github.com/helpscout/librahsappry-/wiki) or view the Source Files
+This is the master Sketch Library for the Help Scout App (Production). Consider it the single source of truth for all Help Scout UI and a super simple way to create quick and accurate mockups. For examples on **how** to use these components, read [the Wiki](https://github.com/helpscout/librahsappry-/wiki) or view the [Example Usage File](https://github.com/helpscout/library-hsapp/blob/master/HS%20App%20Example%20Usage.sketch?raw=true)
+
+![Cover](https://github.com/helpscout/library-hsapp/master/Latest/Cover.png?raw=true)
 
 ## Install
 - Install this repo locally
