@@ -13,6 +13,8 @@ This is the master Sketch Library for the Help Scout App (Production). Consider 
 - Configure the options using the Overrides panel (right)
 - Always look out for the *Library Update Available*, click this whenever it shows to grab the latest components
 
+![Updates](https://d1ax1i5f2y3x71.cloudfront.net/items/1W232c1H0U0J3L0j1w1l/Screen%20Shot%202017-12-15%20at%2010.22.56%20am.png)
+
 ## Requirements
 - Sketch v48+
 - You may also want to install the [Beacon UI Library](https://github.com/helpscout/library-beacon) (not required)
