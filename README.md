@@ -7,6 +7,8 @@ This is the master Sketch Library for the Help Scout App (Production). Consider 
 - Click "Add Library..." and choose `HS App Patterns Master.sketch` from wherever you installed the repo
 - You're done!
 
+![Library](https://dha4w82d62smt.cloudfront.net/items/3I0C0w3r0q1p3u0y3r0O/library.jpeg)
+
 ## How to Use
 - Pull the latest version from GitHub
 - Choose a component from **Insert > HS App Patterns Master**
