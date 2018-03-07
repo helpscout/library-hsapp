@@ -9,7 +9,7 @@ This is the master Sketch Library for the Help Scout App (Production). Consider 
 - Click "Add Library..." and choose `HS App Patterns Master.sketch` from wherever you installed the repo
 - You're done!
 
-![Library](https://dha4w82d62smt.cloudfront.net/items/3I0C0w3r0q1p3u0y3r0O/library.jpeg)
+![Library](https://dha4w82d62smt.cloudfront.net/items/2F011R470K1E3f2o1e40/sketch-library.png)
 
 ## How to Use
 - Pull the latest version from GitHub
@@ -21,4 +21,4 @@ This is the master Sketch Library for the Help Scout App (Production). Consider 
 
 ## Requirements
 - Sketch v48+
-- You may also want to install the [Beacon UI Library](https://github.com/helpscout/library-beacon) (not required)
+- [Blue UI Library](https://github.com/helpscout/library-blue) is not required, but recommended
