@@ -21,4 +21,4 @@ This is the master Sketch Library for the Help Scout App (Production). Consider 
 
 ## Requirements
 - Sketch v48+
-- [Blue UI Library](https://github.com/helpscout/library-blue) is not required, but recommended
+- [Blue UI Library](https://github.com/helpscout/library-blue)
